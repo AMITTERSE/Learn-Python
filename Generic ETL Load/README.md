@@ -4,8 +4,7 @@ Automatically load data of multiple MySQL and MongoDB databases to Google BigQue
 
 ## Disclaimer
 
-* I do not consider myself a full-time programmer. I create this Python script to solve a specific problem for one of my clients. I’m thankful for every feedback to improve or simplify my code. If you would like to send some feedback, please feel free to email me at contact@datapriest.io
-* Code documentation is aligned correctly when the files are viewed in editor “Atom.io”
+* I do not consider myself a full-time programmer. I create this Python script to solve a specific problem for one of my clients. I’m thankful for every feedback to improve or simplify my code. If you would like to send some feedback, please feel free to email me at amit.terse.act.36.zs@gmail.com
 * I’m aware, that this script might not be the best option for all companies. There are many specialized software vendors (like Stitch or Fivetran) out there, to handle this workload in a managed way with SLAs
 * I’m not responsible for any results of this script e.g. bad decisions caused by wrong or bad data imports or infraction of the data privacy laws of your country
 
